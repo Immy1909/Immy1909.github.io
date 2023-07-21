@@ -1,0 +1,87 @@
+@import url('https://fonts.googleapis.com/css?family=Lobster+Two');
+@import url('https://fonts.googleapis.com/css?family=Amatic+SC');
+
+
+body {
+  width: 1024px;
+}
+
+
+
+.header {
+  font-family: "Lobster Two";
+  font-size: 40px;
+  text-align: center;
+  background-image: url("header-dog.jpg");
+  background-size: 1000px;
+  background-repeat: no-repeat;
+  padding: 100px;
+  color: lightpink;
+ 
+}
+
+h2 {
+  background-color: rgb(255, 255, 255);
+  border-radius: 10px;
+}
+
+h2 {
+  font-size: 30px;
+}
+
+a {
+  background-color: lightpink;
+  border-radius: 15px;
+  color: black;
+}
+
+.about {
+  font-size: 35px;
+  text-align: center;
+  font-family: "Amatic SC";
+  
+  
+  
+  
+  
+}
+
+img, .about {
+  width: 100%;
+  
+  
+}
+
+.about-text {
+  background-color: lightpink;
+}
+
+.product-section {
+  font-size: 35px;
+  text-align: center;
+  font-family: "Amatic SC";
+}
+
+p {
+  background-color: lightpink;
+}
+
+img, .product-section {
+  width: 60%;
+  text-align: center;
+  padding: 0px 200px;
+}
+
+.location {
+  font-size: 30px;
+  text-align: center;
+  font-family: "Amatic SC";
+  padding: 20px;
+}
+
+.footer {
+  font-size: 25px;
+  text-align: center;
+  font-family: "Amatic SC";
+  padding: 20px;
+}
